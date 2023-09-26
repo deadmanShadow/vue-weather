@@ -1,4 +1,4 @@
-# vue-weather
+# Vue 3 + Vite
 
 ## Project setup
 ```
